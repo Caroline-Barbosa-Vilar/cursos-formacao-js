@@ -1,0 +1,32 @@
+:root {
+  --border: 1px solid #ccc;
+}
+body{
+	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+section{
+	margin: 2em 0;
+	overflow: hidden;
+}
+table{
+	width: 100%;
+	margin-bottom : .5em;
+  table-layout: fixed;
+}
+td, th {
+	padding: .7em;
+	margin: 0;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+th{
+	font-weight: bold;
+	background-color: #EEE;
+}
+label{
+	color: #555;
+	display: block;
+	margin-bottom: .2em;
+}
+/* escolha da fonte */

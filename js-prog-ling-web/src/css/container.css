@@ -1,0 +1,37 @@
+.container{
+	width: 60%;
+	height: 100%;
+	margin: 0 auto;
+}
+.container h2{
+	font-size: 3em;
+	display: block;
+	padding-bottom: .5em;
+	border-bottom: var(--border);
+	/* border-bottom: 1px solid #ccc; */
+	margin-bottom: .5em;
+}
+.campo{
+	margin: 0;
+	padding-bottom: 1em;
+	width: 100%;
+	border: var(--border);
+	/* border: 1px solid #ccc; */
+	padding: .7em;
+	width: 100%;
+}
+.campo-medio{
+	display: inline-block;
+	padding-right: .5em;
+}
+.grupo{
+	width: 32%;
+	display: inline-block;
+	padding: 10px 0px;
+}
+.adicionar-paciente{
+  margin-top: 30px;
+}
+.campo-invalido{
+	border: 1px solid red;
+}
