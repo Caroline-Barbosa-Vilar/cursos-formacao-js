@@ -16,17 +16,68 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Technologies used](#technologies-used)
 
-<!-- - [What I learned](#what-I-learned) -->
+- [What I learned](#what-I-learned)
 
 <br>
 
 ## Exercises description
 
 <p align="justify">
-  These exercises are part of the JavaScript training of the school of technology [Alura](https://www.alura.com.br).
+  These exercises are part of the JavaScript training of the school of technology [Alura](https://www.alura.com.br).  
+</p>
+
+### Exercise from the course JavaScript for the Web: Create dynamic pages
+
+<p align="justify">
+  Create a code that simulates a drum set in the browser and plays the sounds dynamically through JS. 
 </p>
 
 <br>
+
+<!-- ###
+
+<p align="justify">
+</p>
+
+<br>
+
+
+###
+
+<p align="justify">
+</p>
+
+<br>
+
+###
+
+<p align="justify">
+</p>
+
+<br>
+
+
+###
+
+<p align="justify">
+</p>
+
+<br>
+
+###
+
+<p align="justify">
+</p>
+
+<br>
+
+###
+
+<p align="justify">
+</p>
+
+<br>-->
+
 
 ## Technologies used
 
@@ -36,10 +87,19 @@ _Para a versão em Português, clique [aqui](#portuguese)._
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<!-- ## What I learned 
+## What I learned 
+
+### Exercise from the course JavaScript for the Web: Create dynamic pages
+
+- Associate JavaScript with HTML via DOM;
+- Implementing functions with JavaScript;
+- Investigate possibilities for solving code problems;
+- Select appropriate logical operators for different situations.
+
+<br>
 
 
-## Access the Project
+<!-- ## Access the Project
 
 You can [access the project here](https://bo83dev.github.io/alura-plus) 
 
@@ -82,6 +142,43 @@ Desktop
   Esses exercícios fazem parte da formação JavaScript da escola de tecnologia [Alura](https://www.alura.com.br).
 </p>
 
+### Exercício do curso 'JavaScript para Web: Crie páginas dinâmicas'
+
+<p align="justify">
+  Criar um código que simula uma bateria no navegador e que toca os sons dinamicamente pelo JS. 
+</p>
+
+<br>
+
+<!-- ### Exercício 
+
+<p align="justify">
+</p>
+
+<br>
+
+### Exercício 
+
+<p align="justify">
+</p>
+
+<br>
+
+
+### Exercício 
+
+<p align="justify">
+</p>
+
+<br>
+
+
+### Exercício 
+
+<p align="justify">
+</p>
+
+<br> -->
 
 ## Tecnologias utilizadas
 
@@ -92,11 +189,18 @@ Desktop
 </div>
 
 
-<!-- ## O que aprendi
+## O que aprendi
 
+### Exercício do curso 'JavaScript para Web: Crie páginas dinâmicas'
 
+- Associar o JavaScript com HTML através do DOM;
+- Implementar funções com JavaScript;
+- Investigar possibilidades de resolução de problemas de código;
+- Selecionar operadores lógicos adequados para diferentes situações.
 
-## Acesse o projeto
+<br>
+
+<!-- ## Acesse o projeto
 
 Você pode [acessar o projeto aqui](https://bo83dev.github.io/testimonials-project/) 
 
