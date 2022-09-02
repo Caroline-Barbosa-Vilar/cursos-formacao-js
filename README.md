@@ -26,10 +26,20 @@ _Para a versão em Português, clique [aqui](#portuguese)._
   These exercises are part of the JavaScript training of the school of technology [Alura](https://www.alura.com.br).  
 </p>
 
-### Exercise from the course JavaScript for the Web: Create dynamic pages
+<br>
+
+### Exercise from the course 'JavaScript for the Web: Create dynamic pages'
 
 <p align="justify">
   Create a code that simulates a drum set in the browser and plays the sounds dynamically through JS. 
+</p>
+
+<br>
+
+### Exercise from the course 'Logics with JS'
+
+<p align="justify">
+  Create a 'Bullseye game' using Canvas API. 
 </p>
 
 <br>
@@ -98,6 +108,12 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 <br>
 
+### Exercise from the course 'Logics with JS'
+
+- Using the Canva API;
+- How to create a function to set the random position.
+<br>
+
 
 <!-- ## Access the Project
 
@@ -132,7 +148,7 @@ Desktop
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-<!-- - [O que aprendi](#o-que-aprendi) -->
+- [O que aprendi](#o-que-aprendi)
 
 <br>
 
@@ -142,10 +158,20 @@ Desktop
   Esses exercícios fazem parte da formação JavaScript da escola de tecnologia [Alura](https://www.alura.com.br).
 </p>
 
+<br>
+
 ### Exercício do curso 'JavaScript para Web: Crie páginas dinâmicas'
 
 <p align="justify">
   Criar um código que simula uma bateria no navegador e que toca os sons dinamicamente pelo JS. 
+</p>
+
+<br>
+
+### Exercise do curso 'Lógica de Programação com JS'
+
+<p align="justify">
+ Criar um jogo de acertar o alvo usando o Canvas API.
 </p>
 
 <br>
@@ -199,6 +225,11 @@ Desktop
 - Selecionar operadores lógicos adequados para diferentes situações.
 
 <br>
+
+### Exercise do curso 'Lógica de Programação com JS'
+
+- Como usar o Canva API;
+- Como criar a função que seta a posição aleatória do alvo.
 
 <!-- ## Acesse o projeto
 
