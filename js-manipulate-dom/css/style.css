@@ -218,6 +218,9 @@ main {
         height: 80vh;
         margin: 5vh auto;
     }
+        .box {
+        height: 98%;
+    }
 }
 
 @media screen and (max-width: 1200px) {
